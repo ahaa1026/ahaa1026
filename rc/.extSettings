@@ -1,0 +1,6 @@
+[ProjectFiles]
+HeaderPath=.\..\..\..\..\..\RC\rc\Drivers\CMSIS\Core\Include;.\..\..\..\..\..\RC\rc\Drivers\CMSIS\DSP\Include;.\..\..\..\..\..\RC\rc\PID_MATLAB\Inc;D:\matlab\simulink\include;
+[Groups]
+MATLAB=.\..\..\..\..\..\RC\rc\PID_MATLAB\Src\PID_MATLAB.c;.\..\..\..\..\..\RC\rc\PID_MATLAB\Src\rtGetInf.c;.\..\..\..\..\..\RC\rc\PID_MATLAB\Src\rtGetNaN.c;.\..\..\..\..\..\RC\rc\PID_MATLAB\Src\rt_nonfinite.c;
+[Others]
+Define=MEM_UNIT_BYTES;ARM_MATH_CM4;MemUnit_T:uint8_T;MATLAB_PROJECT;

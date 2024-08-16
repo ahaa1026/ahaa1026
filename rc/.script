@@ -1,0 +1,3 @@
+config load ".\..\..\..\..\..\RC\rc\rc.ioc"
+project generate ui
+exit wait
